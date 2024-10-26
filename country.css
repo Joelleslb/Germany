@@ -1,0 +1,86 @@
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px grey;
+}
+
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.overview {
+    color:black;
+    background-color:lightgray;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 60%;
+}
+
+.geo {
+    color:darkred;
+    background-color:rgb(255, 212, 212);
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkred;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 60%;
+}
+
+.culture {
+    color: goldenrod;
+    background-color:rgb(255, 255, 185);
+    border-style: solid;
+    border-width: 2px;
+    border-color: goldenrod;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 60%;
+}
+
+#flag {
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+}
+
+iframe {
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+    height: 200px;
+}
+
+img {
+    width: 25%;
+    margin: 50px;
+}
+
+#player {
+    float: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:blue;
+}
+
